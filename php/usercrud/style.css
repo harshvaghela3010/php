@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+form{
+	width: 50%;
+	height: 450px;
+	background-color: lightblue;
+	margin: auto;
+	display: block;
+	margin-top: 30px;
+}
+table{
+	width: 100%;
+}
+h1{
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 10px;
+}
+label{
+	font-size: 22px;
+	margin-left: 20px;
+}
+input{
+	width: 90%;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+.a{
+	width: 50px;
+}
+#d{
+	margin: auto;
+	display: block;
+	width: 70%;
+	background-color: black;
+	color: white;
+	border-radius: 15px;
+
+}
+textarea{
+	width: 90%;
+}
+select{
+	width: 90%;
+}
